@@ -1,0 +1,7 @@
+*.pyc
+__pycache__/
+.DS_Store
+*.log
+log.txt
+accuracy_vs_runtime.png
+.ipynb_checkpoints/
