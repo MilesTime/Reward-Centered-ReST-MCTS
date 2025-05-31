@@ -44,8 +44,22 @@ python plot/plot_accuracy_vs_runtime.py
 | Table II/III     | `generate_table.py` |
 | Fig 2            | `plot_accuracy_vs_runtime.py` |
 
-## 📬 Contact
-For any issues or questions, please contact: xwan0575@uni.sydney.edu.au
+---
+
+## 👤 Author & Identity
+
+This project is maintained by **Miles Y. Wong**,  
+an independent researcher in robust decision-making systems under uncertainty.
+
+- 📧 Contact: miles.y.wong [at] gmail [dot] com ; xwan0575@uni.sydney.edu.au
+- 🔗 ORCID:  
+  [https://orcid.org/0009-0009-1755-3078](https://orcid.org/0009-0009-1755-3078) 
+- 🌐 GitHub: [github.com/milesywong](https://github.com/milesywong)
+
+> *Note:* Previously published under the name **Xibai Wang** and account **MilesTime**  
+> (e.g., arXiv:2503.05226 [cs.RO] and this repository).
+
+---
 
 
 ## 🔍 Deep Features for arXiv:2503.05226 [cs.RO]
