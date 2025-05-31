@@ -51,7 +51,7 @@ python plot/plot_accuracy_vs_runtime.py
 This project is maintained by **Miles Y. Wong**,  
 an independent researcher in robust decision-making systems under uncertainty.
 
-- 📧 Contact: miles.y.wong [at] gmail [dot] com ; xwan0575@uni.sydney.edu.au
+- 📧 Contact: miles.y.wong@gmail.com ; xwan0575@uni.sydney.edu.au
 - 🔗 ORCID:  
   [https://orcid.org/0009-0009-1755-3078](https://orcid.org/0009-0009-1755-3078) 
 - 🌐 GitHub: [github.com/milesywong](https://github.com/milesywong)
